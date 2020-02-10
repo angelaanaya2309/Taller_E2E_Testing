@@ -9,6 +9,7 @@ https://github.com/angelaanaya2309/Taller_E2E_Testing/tree/master/Protractor
 
 ![](https://github.com/angelaanaya2309/Taller_E2E_Testing/blob/master/capturas/Captura-localhost.PNG)
 ![](https://github.com/angelaanaya2309/Taller_E2E_Testing/blob/master/capturas/Captura-localhost2.PNG)
+![](https://drive.google.com/file/d/1L3b1XIB5xp2fqsAYekoYZ1z_N4QKNp8W/view?usp=sharing)
 
 ## 3. Puppeteer
 
