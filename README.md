@@ -16,6 +16,8 @@ https://github.com/angelaanaya2309/Taller_E2E_Testing/tree/master/Protractor
 ### Video
 https://drive.google.com/file/d/1L3b1XIB5xp2fqsAYekoYZ1z_N4QKNp8W/view?usp=sharing
 
+![](https://drive.google.com/file/d/1L3b1XIB5xp2fqsAYekoYZ1z_N4QKNp8W/view)
+
 ## 3. Puppeteer
 
 https://github.com/ramirovargas/Puppeter-Jest/tree/master
