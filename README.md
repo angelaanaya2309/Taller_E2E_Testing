@@ -1,10 +1,14 @@
-# Welcome to the Taller_E2E_Testing wiki!
+# Welcome to the E2E_Testing!
 
 
 ## 1. Cypress
 https://github.com/ramirovargas/Taller2_Cypress
 
 ## 2. Protractor
+Para ejecutar proyecto en linea de comandos:
+$ ng serve
+$ ng e2e
+
 https://github.com/angelaanaya2309/Taller_E2E_Testing/tree/master/Protractor
 
 ### Pantallazo de ejecucion 
